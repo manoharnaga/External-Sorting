@@ -1,4 +1,4 @@
-# DSA
+# External-Sorting
 
 ##  Languages Used : C++
 
@@ -30,4 +30,3 @@ The question aims at implementing one such type: K-Way merge sort algorithm to s
 **Generation of unsorted file:
 To generate the unsorted file, python script is uploaded along with this pdf. It
 contains all the instructions required to run it.**
-# External-Sorting
